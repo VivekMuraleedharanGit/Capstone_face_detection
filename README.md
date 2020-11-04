@@ -1,2 +1,2 @@
-# Capstone_face_detection
+# Capstone_Project_
 ## Using Face detection algorithm
